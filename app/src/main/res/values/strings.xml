@@ -8,6 +8,18 @@
     <string name="delete_image">deleteImage</string>
     <string name="thumbnail">thumbnail</string>
 
+    <string-array name="nav_drawer_labels">
+        <item>Birds</item>
+        <item>Animal</item>
+        <item>Forest</item>
+        <item>Ocean</item>
+        <item>Planets</item>
+        <item>Landscape</item>
+    </string-array>
+
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+
     <string name="delete">Delete</string>
     <string name="search">Search</string>
     <string name="settings">Settings</string>
